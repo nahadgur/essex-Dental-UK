@@ -12,7 +12,7 @@ export const BLOG_POSTS = [
     date: "March 15, 2024",
     category: "Pricing",
     readTime: "6 min read",
-    author: "Dr. Sarah Bentley",
+    author: "Dr Sarah Bentley",
     image: "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=1200&auto=format&fit=crop"
   },
   {
@@ -20,7 +20,7 @@ export const BLOG_POSTS = [
     title: "Dental Implants vs Dentures: The Permanent Solution",
     excerpt: "Comparing stability, comfort, and long-term value. Discover why dental implants are the gold standard for tooth replacement.",
     content: [
-      "For decades, dentures were the primary solution for missing teeth. Today, dental implant technology has revolutionized tooth replacement with a permanent, natural-feeling alternative that preserves bone health.",
+      "For decades, dentures were the primary solution for missing teeth. Today, dental implant technology has revolutionised tooth replacement with a permanent, natural-feeling alternative that preserves bone health.",
       "The most significant advantage is stability. Dental implants are surgically placed in your jawbone and fuse through osseointegration, becoming as stable as natural teeth. No adhesives, no slipping, no embarrassing moments.",
       "Beyond stability, implants preserve jawbone density. Dentures sit on top of the gums and don't stimulate bone growth, leading to progressive bone loss and a 'sunken' facial appearance over time.",
       "In terms of function, implants restore 80-90% of natural bite force, allowing you to eat anything. Most denture wearers must avoid hard, sticky, or crunchy foods indefinitely."
@@ -33,10 +33,10 @@ export const BLOG_POSTS = [
   },
   {
     id: 3,
-    title: "The Science of 3D Planning: Visualizing Your Implant Placement",
+    title: "The Science of 3D Planning: Visualising Your Implant Placement",
     excerpt: "Explore the advanced CBCT imaging and surgical guides that ensure precise implant placement for optimal long-term success.",
     content: [
-      "Modern dental implant surgery relies on sophisticated 3D imaging technology that eliminates guesswork and maximizes precision. CBCT (Cone Beam Computed Tomography) scans create a complete 3D map of your jawbone, sinuses, and nerve pathways.",
+      "Modern dental implant surgery relies on sophisticated 3D imaging technology that eliminates guesswork and maximises precision. CBCT (Cone Beam Computed Tomography) scans create a complete 3D map of your jawbone, sinuses, and nerve pathways.",
       "During your initial consultation, our specialists capture detailed scans that reveal bone density, available space, and potential anatomical challenges. This data is used to plan every aspect of your surgery digitally.",
       "Many specialists now use surgical guides—custom 3D-printed templates that fit over your gums and direct the implant to the exact angle and depth planned digitally. This level of precision was impossible with traditional freehand placement.",
       "This technology-driven approach results in more predictable outcomes, faster healing, and reduced risk of complications. You can even see a digital preview of your final result before surgery begins."
@@ -44,7 +44,7 @@ export const BLOG_POSTS = [
     date: "March 02, 2024",
     category: "Technology",
     readTime: "5 min read",
-    author: "Dr. Julian Vance",
+    author: "Dr Julian Vance",
     image: "https://images.unsplash.com/photo-1551076805-e1869033e561?q=80&w=1200&auto=format&fit=crop"
   },
   {
@@ -53,7 +53,7 @@ export const BLOG_POSTS = [
     excerpt: "Proper care ensures your implants last decades. Expert-recommended cleaning protocols and habits to protect your investment.",
     content: [
       "Dental implants have an excellent long-term success rate, but proper maintenance is crucial. With the right care routine, your implants can last 25+ years or even a lifetime.",
-      "The golden rule: treat implants like natural teeth. Brush twice daily with a soft-bristled brush, focusing on the gum line where the implant meets the tissue. This area is prone to bacteria buildup if neglected.",
+      "The golden rule: treat implants like natural teeth. Brush twice daily with a soft-bristled brush, focusing on the gum line where the implant meets the tissue. This area is prone to bacterial buildup if neglected.",
       "Flossing remains essential. Use implant-specific floss or a water flosser to clean between implants and around abutments. Unlike natural teeth, implants don't get cavities, but the surrounding tissue can develop peri-implantitis (gum disease around implants).",
       "Schedule professional cleanings every 6 months. Your specialist will check bone levels via X-ray and deep-clean around the implants. Early detection of any issues dramatically improves treatment outcomes."
     ],
@@ -76,7 +76,7 @@ export const BLOG_POSTS = [
     date: "February 18, 2024",
     category: "Specialist Info",
     readTime: "7 min read",
-    author: "Dr. Michael Grant",
+    author: "Dr Michael Grant",
     image: "https://images.unsplash.com/photo-1461532257246-777de18cd58b?q=80&w=1200&auto=format&fit=crop"
   },
   {
@@ -85,7 +85,7 @@ export const BLOG_POSTS = [
     excerpt: "What to expect during healing and long-term. Dietary guidelines from initial placement through complete osseointegration.",
     content: [
       "One of the most common questions patients ask is: 'What can I eat with dental implants?' The answer depends on where you are in the healing timeline.",
-      "Immediately after surgery (first 2-3 days), stick to soft, cool foods like yogurt, smoothies, mashed potatoes, and soups. Avoid hot foods, hard/crunchy items, and don't use straws—the suction can disturb the surgical site.",
+      "Immediately after surgery (first 2-3 days), stick to soft, cool foods like yoghurt, smoothies, mashed potatoes, and soups. Avoid hot foods, hard/crunchy items, and don't use straws—the suction can disturb the surgical site.",
       "During osseointegration (weeks 2-12), you can gradually reintroduce more solid foods, but avoid excessive force on the implant site. Chew on the opposite side when possible and avoid extremely hard foods like ice, hard candy, or tough meats.",
       "After full integration (3-6 months), your implant functions exactly like a natural tooth. Eat anything you want—steak, apples, corn on the cob—with complete confidence. The bite force is comparable to your original teeth."
     ],
@@ -153,7 +153,7 @@ export const SERVICES = [
 ];
 
 export const FAQS_HOME = [
-  { q: "How does this service differ from a normal dentist?", a: "We are an independent referral network focusing on verified implant specialists. We prioritize matching you with surgical experts who have placed thousands of implants. This ensures you receive the highest standard of specialized care for your tooth replacement." },
+  { q: "How does this service differ from a normal dentist?", a: "We are an independent referral network focusing on verified implant specialists. We prioritise matching you with surgical experts who have placed thousands of implants. This ensures you receive the highest standard of specialised care for your tooth replacement." },
   { q: "How do I get matched with the right specialist?", a: "Our matching service is completely free and takes less than 2 minutes. Simply complete our quick form with your requirements and location, and we'll connect you with vetted dental implant specialists in your area. We only work with experienced providers who meet our rigorous quality standards." },
   { q: "Is there a cost for the referral?", a: "Our referral facilitation service is completely free for patients. We help you find the perfect specialist match and arrange your initial consultation at no charge. You only pay the clinic directly if you choose to proceed with treatment." }
 ];
@@ -166,6 +166,6 @@ export const FAQS_SERVICES = [
 
 export const FAQS_LOCATION = [
   { q: "How do you vet your local specialists?", a: "We only partner with clinics that have verifiable track records of successful implant placements. Specialists must demonstrate advanced training, modern technology (CBCT scans, surgical guides), and consistently positive patient outcomes. We continuously monitor reviews and success rates." },
-  { q: "Are the clinics easily accessible?", a: "Our network specifically targets major city centers and well-connected towns for maximum convenience. Most specialists offer flexible scheduling including evenings or weekends. We prioritize locations with excellent transport links and modern, comfortable facilities." },
-  { q: "What if there isn't a specialist in my exact town?", a: "If your specific town is not listed, we will match you with the nearest verified specialist. Implant surgery is specialized work worth traveling for—our specialists offer superior technology and clinical outcomes. We ensure the travel time is minimized while maintaining the highest quality care." }
+  { q: "Are the clinics easily accessible?", a: "Our network specifically targets major city centres and well-connected towns for maximum convenience. Most specialists offer flexible scheduling, including evenings or weekends. We prioritise locations with excellent transport links and modern, comfortable facilities." },
+  { q: "What if there isn't a specialist in my exact town?", a: "If your specific town is not listed, we will match you with the nearest verified specialist. Implant surgery is specialised work worth travelling for—our specialists offer superior technology and clinical outcomes. We ensure the travel time is minimised while maintaining the highest quality care." }
 ];
